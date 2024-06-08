@@ -1,0 +1,6 @@
+Este proyecto fue realizado en VisualStudioCode, en el se utiliza modulos los cuales son:
+------------------------------------------------------------------------------------------
+tkinter - Comando para instalarlo en visual studio code: pip install tkinter
+mysql.connector - Comando para instalarlo en visual studio code: pip install mysql-connector-python
+----------------------------------------------------------------------------------------------------
+En caso de no tener instalado tkinter se recomienda buscar videos para instalarlo de manera correcta antes de correr el programa.
